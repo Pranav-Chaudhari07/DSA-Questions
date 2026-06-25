@@ -6,6 +6,7 @@
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0197-rising-temperature) |
+| [0584-find-customer-referee](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0584-find-customer-referee) |
 ## Math
 |  |
 | ------- |
