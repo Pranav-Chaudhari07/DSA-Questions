@@ -13,6 +13,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0610-triangle-judgement) |
 ## Math
 |  |
 | ------- |
