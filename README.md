@@ -15,6 +15,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0619-biggest-single-number) |
+| [0627-swap-sex-of-employees](https://github.com/Pranav-Chaudhari07/DSA-Questions/tree/master/0627-swap-sex-of-employees) |
 ## Math
 |  |
 | ------- |
